@@ -1570,4 +1570,4 @@ var Fetcher = /*#__PURE__*/function () {
 }();
 
 export { ChainId, Currency, CurrencyAmount, ETHER, FACTORY_ADDRESS, Fetcher, Fraction, INIT_CODE_HASH, InsufficientInputAmountError, InsufficientReservesError, MINIMUM_LIQUIDITY, Pair, Percent, Price, Rounding, Route, Router, Token, TokenAmount, Trade, TradeType, WETH, currencyEquals, inputOutputComparator, tradeComparator };
-//# sourceMappingURL=sdk.esm.js.map
+//# sourceMappingURL=uniswapsdk.esm.js.map
